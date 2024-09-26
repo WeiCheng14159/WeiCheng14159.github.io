@@ -55,6 +55,10 @@ redirect_from:
 * 2018: IEEE Hong Kong Final Year Project Merit Award
 
 ## Projects
+* SPEAR: A 1.25 GHz bandwidth real-time RF testbed
+  * SPEAR is an SDR platform based on the Xilinx RFSoC ZCU216 evaluation board capable of supporting real-time streaming of signals with a bandwidth of up to 1.25 GHz employing the direct RF radio architecture.
+  * It comes with an DSP pipeline written in Python and reaches the 3GPP EVM requirement of 3.5% with 256QAM modulation.
+  * Github: [https://github.com/functions-lab/SPEAR](https://github.com/functions-lab/SPEAR)
 * A SW/HW co-designed RISC-V CNN accelerator for mask detection
   * RISC-V core consists of: pipelined RV32I core, I-cache/D-cache, AXI bus, DMA, DRAM/ROM controller, Interrupt manager. It also handles the booting sequence, data movements, the control of acceleration unit, and system interrupts.
   * Apply network compression and quantization on a mask detection CNN model.
