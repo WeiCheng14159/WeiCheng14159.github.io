@@ -16,11 +16,3 @@ to address the latency issues associated with DMA control, thereby enabling high
 [Download pdf from this site](http://WeiCheng14159.github.io/files/publications/SPEAR_demo.pdf)
 
 [Github](https://github.com/functions-lab/SPEAR)
-
-```bibtex
-@inproceedings{cheng2024real,
-  author    = {Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
-  title     = {% raw %}{{Real}-{time} {Wideband} {Software}-{defined} {Radio} with {Python} {Programmability} based on {RFSoC}}{% endraw %},
-  booktitle = {% raw %}{Proc. {ACM} {MobiCom'24}}{% endraw %},
-  year      = {2024},
-}

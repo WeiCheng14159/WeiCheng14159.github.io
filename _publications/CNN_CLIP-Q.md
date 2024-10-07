@@ -13,15 +13,3 @@ Convolutional neural networks (CNNs) have achieved tremendous success in the com
 [Download pdf from IEEE](https://doi.org/10.1109/TCSI.2022.3193031)
 
 [Download pdf from this site](http://WeiCheng14159.github.io/files/publications/CNN_CLIP-Q.pdf)
-
-```
-@article{
-	author = {Cheng, Wei and Lin, Ing-Chao and Shih, Yun-Yang},
-	title = {An Efficient Implementation of Convolutional Neural Network With CLIP-Q Quantization on FPGA},
-	journal = {IEEE Trans. Circuits Syst. I},
-	volume = {69},
-	number = {10},
-	pages = {4093--4102}
-	publisher = {IEEE},
-}
-```
