@@ -16,12 +16,9 @@ Architectural innovation in graph accelerators attracts research attention due t
 
 ```
 @inproceedings{
-	title = {GraphRC: Accelerating Graph Processing on Dual-Addressing Memory with Vertex Merging},
-	doi = {10.1145/3508352.3549408},
-	booktitle = {Proc. of the 41st {IEEE}/{ACM} {Int.} {Conf.} on {Comput.}-{Aided} {Des.}},
 	author = {Cheng, Wei and Wu, Chun-Feng and Chang, Yuan-Hao and Lin, Ing-Chao},
-	month = oct,
+	title = {GraphRC: Accelerating Graph Processing on Dual-Addressing Memory with Vertex Merging},
+	booktitle = {Proc. of the 41st {IEEE}/{ACM} {Int.} {Conf.} on {Comput.}-{Aided} {Des.}},
 	year = {2022},
-	pages = {1--9}
 }
 ```

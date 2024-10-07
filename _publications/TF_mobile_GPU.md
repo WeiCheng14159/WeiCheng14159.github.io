@@ -15,4 +15,3 @@ The advancement of mobile computing technology and the recent progress in AI hav
 [Download full report (85 pages) here](http://WeiCheng14159.github.io/files/publications/TF_mobile_GPU_full.pdf)
 
 ---
-Despite its unpolished words and rusty experiments. This paper is my first attempt to analyze a challenging topic systematically, and it is meaningful to me personally. This work has not been formally published due to its sub-optimal quality, and it's listed here for your information only. 

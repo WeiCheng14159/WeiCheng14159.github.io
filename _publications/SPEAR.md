@@ -3,7 +3,7 @@ title: "SPEAR: Software-defined Python-EnhAnced RFSoC for Wideband Radio Applica
 collection: publications
 permalink: /publication/SPEAR
 excerpt: 'SPEAR is an SDR platform based on the Xilinx RFSoC ZCU216 evaluation board capable of supporting real-time streaming of signals with a bandwidth of up to 1.25 GHz employing the direct RF radio architecture.'
-date: 2024-09-25
+date: 2024-11-18
 venue: 'ACM MobiCom’24 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (WiNTECH’24)'
 paperurl: 'https://doi.org/10.1145/3636534.3697310'
 ---
@@ -16,16 +16,10 @@ Next-generation wireless systems utilize large signal bandwidths to meet the gro
 
 [Github](https://github.com/functions-lab/SPEAR)
 
-```
-@inproceedings{
-  title     = {SPEAR: Software-defined Python-EnhAnced RFSoC for Wideband Radio Applications},
-  isbn      = {979-8-4007-0489-5/24/11},
-  address   = {Washington D.C.},
-  url       = {},
-  doi       = {10.1145/3636534.3697310},
-  booktitle = {Proc. {ACM} {WiNTECH’24}},
+```bibtex
+@inproceedings{cheng2024real,
   author    = {Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
+  title     = {% raw %}{{Real}-{time} {Wideband} {Software}-{defined} {Radio} with {Python} {Programmability} based on {RFSoC}}{% endraw %},
+  booktitle = {% raw %}{Proc. {ACM} {MobiCom'24}}{% endraw %},
   year      = {2024},
-  pages     = {}
 }
-```
